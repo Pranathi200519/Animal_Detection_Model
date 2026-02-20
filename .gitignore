@@ -1,0 +1,33 @@
+# env
+
+venv/
+env/
+ENV/
+.venv/
+
+# IDE junk
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+
+.env
+.env,*
+
+# Model Files 
+
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+
